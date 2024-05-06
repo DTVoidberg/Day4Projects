@@ -1,0 +1,15 @@
+C:\Users\David\Desktop\C#MainStudies\Day4LeapYearChecker\Day4LeapYearChecker\obj\Debug\net8.0\Day4LeapYearChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C#MainStudies\Day4LeapYearChecker\Day4LeapYearChecker\obj\Debug\net8.0\Day4LeapYearChecker.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day4LeapYearChecker\Day4LeapYearChecker\obj\Debug\net8.0\Day4LeapYearChecker.AssemblyInfo.cs
+C:\Users\David\Desktop\C#MainStudies\Day4LeapYearChecker\Day4LeapYearChecker\obj\Debug\net8.0\Day4LeapYearChecker.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day4LeapYearChecker\Day4LeapYearChecker\obj\Debug\net8.0\Day4LeapYearChecker.sourcelink.json
+C:\Users\David\Desktop\C#MainStudies\Day4LeapYearChecker\Day4LeapYearChecker\bin\Debug\net8.0\Day4LeapYearChecker.exe
+C:\Users\David\Desktop\C#MainStudies\Day4LeapYearChecker\Day4LeapYearChecker\bin\Debug\net8.0\Day4LeapYearChecker.deps.json
+C:\Users\David\Desktop\C#MainStudies\Day4LeapYearChecker\Day4LeapYearChecker\bin\Debug\net8.0\Day4LeapYearChecker.runtimeconfig.json
+C:\Users\David\Desktop\C#MainStudies\Day4LeapYearChecker\Day4LeapYearChecker\bin\Debug\net8.0\Day4LeapYearChecker.dll
+C:\Users\David\Desktop\C#MainStudies\Day4LeapYearChecker\Day4LeapYearChecker\bin\Debug\net8.0\Day4LeapYearChecker.pdb
+C:\Users\David\Desktop\C#MainStudies\Day4LeapYearChecker\Day4LeapYearChecker\obj\Debug\net8.0\Day4LeapYearChecker.dll
+C:\Users\David\Desktop\C#MainStudies\Day4LeapYearChecker\Day4LeapYearChecker\obj\Debug\net8.0\refint\Day4LeapYearChecker.dll
+C:\Users\David\Desktop\C#MainStudies\Day4LeapYearChecker\Day4LeapYearChecker\obj\Debug\net8.0\Day4LeapYearChecker.pdb
+C:\Users\David\Desktop\C#MainStudies\Day4LeapYearChecker\Day4LeapYearChecker\obj\Debug\net8.0\Day4LeapYearChecker.genruntimeconfig.cache
+C:\Users\David\Desktop\C#MainStudies\Day4LeapYearChecker\Day4LeapYearChecker\obj\Debug\net8.0\ref\Day4LeapYearChecker.dll
