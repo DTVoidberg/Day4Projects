@@ -1,0 +1,15 @@
+C:\Users\David\Desktop\C#MainStudies\Day4Project\Day4Project\obj\Debug\net8.0\Day4Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C#MainStudies\Day4Project\Day4Project\obj\Debug\net8.0\Day4Project.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day4Project\Day4Project\obj\Debug\net8.0\Day4Project.AssemblyInfo.cs
+C:\Users\David\Desktop\C#MainStudies\Day4Project\Day4Project\obj\Debug\net8.0\Day4Project.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day4Project\Day4Project\obj\Debug\net8.0\Day4Project.sourcelink.json
+C:\Users\David\Desktop\C#MainStudies\Day4Project\Day4Project\bin\Debug\net8.0\Day4Project.exe
+C:\Users\David\Desktop\C#MainStudies\Day4Project\Day4Project\bin\Debug\net8.0\Day4Project.deps.json
+C:\Users\David\Desktop\C#MainStudies\Day4Project\Day4Project\bin\Debug\net8.0\Day4Project.runtimeconfig.json
+C:\Users\David\Desktop\C#MainStudies\Day4Project\Day4Project\bin\Debug\net8.0\Day4Project.dll
+C:\Users\David\Desktop\C#MainStudies\Day4Project\Day4Project\bin\Debug\net8.0\Day4Project.pdb
+C:\Users\David\Desktop\C#MainStudies\Day4Project\Day4Project\obj\Debug\net8.0\Day4Project.dll
+C:\Users\David\Desktop\C#MainStudies\Day4Project\Day4Project\obj\Debug\net8.0\refint\Day4Project.dll
+C:\Users\David\Desktop\C#MainStudies\Day4Project\Day4Project\obj\Debug\net8.0\Day4Project.pdb
+C:\Users\David\Desktop\C#MainStudies\Day4Project\Day4Project\obj\Debug\net8.0\Day4Project.genruntimeconfig.cache
+C:\Users\David\Desktop\C#MainStudies\Day4Project\Day4Project\obj\Debug\net8.0\ref\Day4Project.dll
