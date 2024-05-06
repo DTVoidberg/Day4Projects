@@ -1,0 +1,15 @@
+C:\Users\David\Desktop\C#MainStudies\Day4TemperatureConverter\Day4TemperatureConverter\bin\Debug\net8.0\Day4TemperatureConverter.exe
+C:\Users\David\Desktop\C#MainStudies\Day4TemperatureConverter\Day4TemperatureConverter\bin\Debug\net8.0\Day4TemperatureConverter.deps.json
+C:\Users\David\Desktop\C#MainStudies\Day4TemperatureConverter\Day4TemperatureConverter\bin\Debug\net8.0\Day4TemperatureConverter.runtimeconfig.json
+C:\Users\David\Desktop\C#MainStudies\Day4TemperatureConverter\Day4TemperatureConverter\bin\Debug\net8.0\Day4TemperatureConverter.dll
+C:\Users\David\Desktop\C#MainStudies\Day4TemperatureConverter\Day4TemperatureConverter\bin\Debug\net8.0\Day4TemperatureConverter.pdb
+C:\Users\David\Desktop\C#MainStudies\Day4TemperatureConverter\Day4TemperatureConverter\obj\Debug\net8.0\Day4TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C#MainStudies\Day4TemperatureConverter\Day4TemperatureConverter\obj\Debug\net8.0\Day4TemperatureConverter.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day4TemperatureConverter\Day4TemperatureConverter\obj\Debug\net8.0\Day4TemperatureConverter.AssemblyInfo.cs
+C:\Users\David\Desktop\C#MainStudies\Day4TemperatureConverter\Day4TemperatureConverter\obj\Debug\net8.0\Day4TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day4TemperatureConverter\Day4TemperatureConverter\obj\Debug\net8.0\Day4TemperatureConverter.sourcelink.json
+C:\Users\David\Desktop\C#MainStudies\Day4TemperatureConverter\Day4TemperatureConverter\obj\Debug\net8.0\Day4TemperatureConverter.dll
+C:\Users\David\Desktop\C#MainStudies\Day4TemperatureConverter\Day4TemperatureConverter\obj\Debug\net8.0\refint\Day4TemperatureConverter.dll
+C:\Users\David\Desktop\C#MainStudies\Day4TemperatureConverter\Day4TemperatureConverter\obj\Debug\net8.0\Day4TemperatureConverter.pdb
+C:\Users\David\Desktop\C#MainStudies\Day4TemperatureConverter\Day4TemperatureConverter\obj\Debug\net8.0\Day4TemperatureConverter.genruntimeconfig.cache
+C:\Users\David\Desktop\C#MainStudies\Day4TemperatureConverter\Day4TemperatureConverter\obj\Debug\net8.0\ref\Day4TemperatureConverter.dll
