@@ -1,0 +1,15 @@
+C:\Users\David\Desktop\C#MainStudies\Day4PrimeNumberFinder\Day4PrimeNumberFinder\obj\Debug\net8.0\Day4PrimeNumberFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C#MainStudies\Day4PrimeNumberFinder\Day4PrimeNumberFinder\obj\Debug\net8.0\Day4PrimeNumberFinder.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day4PrimeNumberFinder\Day4PrimeNumberFinder\obj\Debug\net8.0\Day4PrimeNumberFinder.AssemblyInfo.cs
+C:\Users\David\Desktop\C#MainStudies\Day4PrimeNumberFinder\Day4PrimeNumberFinder\obj\Debug\net8.0\Day4PrimeNumberFinder.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day4PrimeNumberFinder\Day4PrimeNumberFinder\obj\Debug\net8.0\Day4PrimeNumberFinder.sourcelink.json
+C:\Users\David\Desktop\C#MainStudies\Day4PrimeNumberFinder\Day4PrimeNumberFinder\bin\Debug\net8.0\Day4PrimeNumberFinder.exe
+C:\Users\David\Desktop\C#MainStudies\Day4PrimeNumberFinder\Day4PrimeNumberFinder\bin\Debug\net8.0\Day4PrimeNumberFinder.deps.json
+C:\Users\David\Desktop\C#MainStudies\Day4PrimeNumberFinder\Day4PrimeNumberFinder\bin\Debug\net8.0\Day4PrimeNumberFinder.runtimeconfig.json
+C:\Users\David\Desktop\C#MainStudies\Day4PrimeNumberFinder\Day4PrimeNumberFinder\bin\Debug\net8.0\Day4PrimeNumberFinder.dll
+C:\Users\David\Desktop\C#MainStudies\Day4PrimeNumberFinder\Day4PrimeNumberFinder\bin\Debug\net8.0\Day4PrimeNumberFinder.pdb
+C:\Users\David\Desktop\C#MainStudies\Day4PrimeNumberFinder\Day4PrimeNumberFinder\obj\Debug\net8.0\Day4PrimeNumberFinder.dll
+C:\Users\David\Desktop\C#MainStudies\Day4PrimeNumberFinder\Day4PrimeNumberFinder\obj\Debug\net8.0\refint\Day4PrimeNumberFinder.dll
+C:\Users\David\Desktop\C#MainStudies\Day4PrimeNumberFinder\Day4PrimeNumberFinder\obj\Debug\net8.0\Day4PrimeNumberFinder.pdb
+C:\Users\David\Desktop\C#MainStudies\Day4PrimeNumberFinder\Day4PrimeNumberFinder\obj\Debug\net8.0\Day4PrimeNumberFinder.genruntimeconfig.cache
+C:\Users\David\Desktop\C#MainStudies\Day4PrimeNumberFinder\Day4PrimeNumberFinder\obj\Debug\net8.0\ref\Day4PrimeNumberFinder.dll
